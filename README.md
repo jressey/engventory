@@ -26,8 +26,8 @@ It's worth noting that a nearly infinite amount has been written on this subject
 ### Modeling
 You don't need to know everything about UML, but here are a couple key diagrams you should be using consistently. There is no need to make these documents formal.
 - [Interaction Diagram](https://www.tutorialspoint.com/uml/uml_interaction_diagram.htm)
-- [Activity Diagram] (https://www.tutorialspoint.com/uml/uml_activity_diagram.htm)
-- [Statechart Diagram] (https://www.tutorialspoint.com/uml/uml_statechart_diagram.htm)
+- [Activity Diagram](https://www.tutorialspoint.com/uml/uml_activity_diagram.htm)
+- [Statechart Diagram](https://www.tutorialspoint.com/uml/uml_statechart_diagram.htm)
 
 ### Negotiating Scope
 

@@ -5,10 +5,10 @@ Purpose: To enumerate skills and consolidate resources associated with success i
 
 
 ### Communicating Effectively
-- [Resource 1](https://www.google.com)
+- [How to Communicate a Message Effectively by Anna Cario](http://www.annacairo.com/articles/How%20to%20Communicate%20a%20Message%20Effectively-1.pdf)
 
 ### Persuation
-- [Resource 1](https://www.google.com)
+- [Master the Art of Influence — Persuasion as a Skill and Habit, interview with Tyler Odean by First Round](https://firstround.com/review/master-the-art-of-influence-persuasion-as-a-skill-and-habit/)
 
 ### Politics
 - [Resource 1](https://www.google.com)

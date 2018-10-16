@@ -2,6 +2,8 @@
 
 Purpose: To enumerate skills and consolidate resources associated with success in Software Engineering Leadership
 
+
+
 ### Communicating Effectively
 - [Resource 1](https://www.google.com)
 
@@ -23,8 +25,22 @@ Purpose: To enumerate skills and consolidate resources associated with success i
 ### Vulnerability
 - [Resource 1](https://www.google.com)
 
-### Dogged Perseverence
+### Persistence
 - [Resource 1](https://www.google.com)
 
-### Growing Less Experienced Team Members
+### Perseverence
+
+### Guiding Career Growth in Others
 - [Resource 1](https://www.google.com)
+
+### Holding Accountablility
+
+### Delegation
+
+### Chunking, or Breaking Down Problems
+
+### Public Speaking
+
+### Generating Visual Aids
+
+### Business Skills - Finance/P&L/Sales/Marketing

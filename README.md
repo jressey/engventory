@@ -21,7 +21,7 @@ Workplace politics might not be what you think. Savvy people use politics to get
 Most people stumble here because they are either optimistic or averse to delivering 'bad news.' For me, I'd rather have the pilot tell me there's a 10-minute delay coming than to sit on the tarmac for 9 minutes without knowing.
 
 It's worth noting that a nearly infinite amount has been written on this subject, but I think just 1 thing is important: **Make your estimations with short-long ranges, if your stakeholder will not accept the range, use the longest duration. Include the rationale in your estimates too.**
-- [Making Better Estimates, Part 7: Range Estimates 0 Carl Erickson](https://spin.atomicobject.com/2009/01/14/making-better-estimates-range-estimates/)
+- [Making Better Estimates, Part 7: Range Estimates - Carl Erickson](https://spin.atomicobject.com/2009/01/14/making-better-estimates-range-estimates/)
 
 ### Modeling
 You don't need to know everything about UML, but here are a couple key diagrams you should be using consistently. There is no need to make these documents formal.

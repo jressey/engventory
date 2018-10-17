@@ -29,9 +29,16 @@ You don't need to know everything about UML, but here are a couple key diagrams 
 - [Activity Diagram](https://www.tutorialspoint.com/uml/uml_activity_diagram.htm)
 - [Statechart Diagram](https://www.tutorialspoint.com/uml/uml_statechart_diagram.htm)
 
-### Negotiating Scope
+### Meetings
+- Inviting the right people
+- Setting and sticking to an agenda
+- Tools of engagement
+
+### Negotiating
+- Start with [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757)
 
 ### Vulnerability
+- Google Brené Brown and go from there. This is a fun one!
 
 ### Persistence
 

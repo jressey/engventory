@@ -41,8 +41,12 @@ You don't need to know everything about UML, but here are a couple key diagrams 
 - Google Brené Brown and go from there. This is a fun one!
 
 ### Persistence
+Persistence is something you don't pick up by reading some blogs. It is about who you are. You'll need to develop this skill intentionally through becoming a better person.
+
+- [A blogpost to get you started](https://www.fastcompany.com/3044531/7-habits-of-highly-persistent-people)
 
 ### Perseverence
+My take: Perseverence is distinct from persistence. Persistence just means to keep trying, "perseverence" describes actually overcoming new challenges that you had previously been unable to. 
 
 ### Guiding Career Growth in Others
 
